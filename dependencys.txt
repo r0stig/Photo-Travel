@@ -1,0 +1,17 @@
+Frameworks:
+
+Javascript:
+jQuery
+Underscore
+Backbone
+require
+https://github.com/cmlenz/jquery-iframe-transport
+
+PHP:
+Tonic REST Framework
+https://github.com/peej/tonic
+
+API:
+
+Google maps:
+https://developers.google.com/maps/documentation/javascript/reference

@@ -1,0 +1,29 @@
+# Classes
+class\\Common
+# Models
+models\\picture
+models\\user
+models\\tag
+models\\general_tag
+# Collections
+collections\\user_pictures
+collections\\users
+collections\\pictures
+collections\\tags
+collections\\general_tags
+# Views
+views\\pictures\\list
+views\\pictures\\management_list
+views\\pictures\\management_single
+views\\pictures\\management_edit
+views\\pictures\\management
+views\\pictures\\map
+views\\pictures\\single
+views\\pictures\\find
+views\\pictures\\user_list
+views\\pictures\\user_single
+views\\pictures\\tag_list
+views\\pictures\\tag_single
+# App
+router
+app

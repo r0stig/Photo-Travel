@@ -1,0 +1,23 @@
+<div class="row">
+	<div id="mgmtEditContainer" class="span8">
+	
+	</div>
+	<div id="mgmtMyPicContainer" class="span8">
+		<h1>My pictures</h1>
+		<p>
+			<div id="picMgmtMyPictures"></div>
+		</p>
+	</div>
+	<div class="span4">
+		<h1>Upload photo</h1>
+		<p>
+			<form action="http://localhost/html5/googlemaps/online-svn/trunk/bapi/upload.php" id="pictureUpload" method="post" enctype="multipart/form-data">
+				<input type="file" name="file" /><br />
+				Tags:<br /><input type="text" name="tags" /><br />
+				Description:<br />
+				<textarea name="description" cols="35" rows="8"></textarea><br />
+				<input type="submit" class="btn btn-primary" value="Upload" />
+			</form>
+		</p>
+	</div>
+</div>
